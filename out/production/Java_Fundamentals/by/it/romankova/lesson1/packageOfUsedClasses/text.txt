@@ -1,0 +1,13 @@
+The world is the planet Earth and all life on it, including human civilization.
+[1] In a philosophical context, the "world" is the whole of the physical Universe,
+or an ontological world (the "world" of an individual). In a theological context,
+the world is the material or the profane sphere, as opposed to the celestial,
+spiritual, transcendent or sacred spheres. "End of the world" scenarios refer to
+the end of human history, often in religious contexts.
+1. Ввести с консоли имя файла. Найти байт или байты с максимальным количеством повторов. Вывести их на экран через пробел. Закрыть поток ввода-вывода.
+
+2.  Написать программу, которая создаст текстовый файл и запишет в него список файлов (путь, имя, дата создания) из заданного каталога.
+
+3.Организовать построчное считывание данных, введенных с консоли, и их запись в файл. Признаком окончания записи (конец работы программы) является строка со словом «#ESC».
+
+B1. Считать из одного файла текст НА РУССКОМ и НА АНГЛ. и вывести в другой. Нагенерить(создать) файл минимум 100мб. В репозиторий GIT не закидывать!!!!
